@@ -8,6 +8,8 @@
 - [Fun with Shaders and the Depth Buffer](https://chrismflynn.wordpress.com/2012/09/06/fun-with-shaders-and-the-depth-buffer/)
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 
+- [CgTutorial](http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
+
 ### Youtube Shaders
 - [Shaders 101](https://www.youtube.com/watch?v=T-HXmQAMhG0)
 
