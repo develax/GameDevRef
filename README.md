@@ -13,6 +13,9 @@
 ### Youtube Shaders
 - [Shaders 101](https://www.youtube.com/watch?v=T-HXmQAMhG0)
 
+- [2D Sprite Shape offical tutorial](https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@1.0/manual/index.html)
+- [Working with SpriteShape - Unity tutorial](https://learn.unity.com/tutorial/working-with-spriteshape#)
+
 ## Algorithms 
 
 -[Introduction to Behavior Trees](https://web.archive.org/web/20140723035304/http://www.altdev.co/2011/02/24/introduction-to-behavior-trees/)
