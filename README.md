@@ -1,5 +1,8 @@
 # GameDevRef
 
+## Assets
+- [Unity Asset Management (Part 1)](https://starloopstudios.com/unity-asset-management/)
+
 ## Shaders
 - [Shaders Laboratory](http://www.shaderslab.com/)
 - [The book of shaders](https://thebookofshaders.com/)
