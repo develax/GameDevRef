@@ -16,6 +16,10 @@
 - [2D Sprite Shape offical tutorial](https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@1.0/manual/index.html)
 - [Working with SpriteShape - Unity tutorial](https://learn.unity.com/tutorial/working-with-spriteshape#)
 
+## Textures
+- [Pixel Perfect (forum)](https://forum.unity.com/threads/the-best-pixel-perfect-method.509323/)
+- [amplify plugins](http://wiki.amplify.pt/)
+
 ## Algorithms 
 
 -[Introduction to Behavior Trees](https://web.archive.org/web/20140723035304/http://www.altdev.co/2011/02/24/introduction-to-behavior-trees/)
