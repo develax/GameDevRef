@@ -22,6 +22,9 @@
 ### Shader solutions
 - [FXAA Smoothing Pixels](https://catlikecoding.com/unity/tutorials/advanced-rendering/fxaa/)
 
+## Meshes
+- [Runtime Mesh Manipulation With Unity](https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity)
+
 ## Textures
 - [Pixel Perfect (forum)](https://forum.unity.com/threads/the-best-pixel-perfect-method.509323/)
 - [amplify plugins](http://wiki.amplify.pt/)
