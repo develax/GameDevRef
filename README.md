@@ -10,6 +10,7 @@
 - [GLSL Programming/Unity](https://en.wikibooks.org/wiki/GLSL_Programming/Unity)
 - [Fun with Shaders and the Depth Buffer](https://chrismflynn.wordpress.com/2012/09/06/fun-with-shaders-and-the-depth-buffer/)
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
+- [x] [Shader Coding in Unity from A to Z](https://medium.com/shader-coding-in-unity-from-a-to-z)
 
 - [CgTutorial](http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
 
