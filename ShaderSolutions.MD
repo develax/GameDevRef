@@ -1,0 +1,1 @@
+ - [Shader: !clip()](https://dotnetfiddle.net/8cF16C)
