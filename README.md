@@ -12,6 +12,7 @@
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Shader Coding in Unity from A to Z](https://medium.com/shader-coding-in-unity-from-a-to-z)
 - [CgTutorial](http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
+- [Cg Programming/Unity/Transparency](https://en.wikibooks.org/wiki/Cg_Programming/Unity/Transparency)
 
 ### Youtube Shaders
 - [Shaders 101](https://www.youtube.com/watch?v=T-HXmQAMhG0)
