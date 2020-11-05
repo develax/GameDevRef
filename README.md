@@ -36,4 +36,4 @@
 -
 
 ## Unity Editor
-- [ObjectPreview](/UnityEditor/SpriteSizePreview.cs)
+- [ObjectPreview (example)](/UnityEditor/SpriteSizePreview.cs)
