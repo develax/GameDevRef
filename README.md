@@ -14,6 +14,7 @@
 - [CgTutorial](http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
 - [Cg Programming/Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
 - [Cg Programming](https://en.wikibooks.org/wiki/Cg_Programming)
+-- [Vertex Transformations](https://en.wikibooks.org/wiki/Cg_Programming/Vertex_Transformations)
 - [Basic Rendering in OpenGL](https://www.informit.com/articles/article.aspx?p=1616796&seqNum=5)
 - [x] [Режимы смешивания в Unity](https://habr.com/ru/post/256439/)
 
