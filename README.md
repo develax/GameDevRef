@@ -47,6 +47,9 @@
 ## OPEN GL
 - [Learn OpenGL](https://learnopengl.com/)
 
+## DirectX
+- [d3dcoder.net/resources](http://www.d3dcoder.net/resources.htm) (source code for the book)
+
 ## Matrixes
 ### Rotation without tanslation
 Quick overview of the included variables:
