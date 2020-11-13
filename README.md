@@ -48,6 +48,7 @@
 - [Learn OpenGL](https://learnopengl.com/)
 
 ## DirectX
+- [DirectX 12 Docs](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-getting-started)
 - [d3dcoder.net/resources](http://www.d3dcoder.net/resources.htm) (source code for the book)
 
 ## Matrixes
