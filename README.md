@@ -18,9 +18,11 @@
 - [Basic Rendering in OpenGL](https://www.informit.com/articles/article.aspx?p=1616796&seqNum=5)
 - [x] [Режимы смешивания в Unity](https://habr.com/ru/post/256439/)
 
+#### Blogs
+- [humus.name](http://www.humus.name/)
+
 ### Youtube Shaders
 - [Shaders 101](https://www.youtube.com/watch?v=T-HXmQAMhG0)
-
 - [2D Sprite Shape offical tutorial](https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@1.0/manual/index.html)
 - [Working with SpriteShape - Unity tutorial](https://learn.unity.com/tutorial/working-with-spriteshape#)
 
