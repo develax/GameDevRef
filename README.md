@@ -46,3 +46,31 @@
 
 ## OPEN GL
 - [Learn OpenGL](https://learnopengl.com/)
+
+## Matrixes
+### Rotation without tanslation
+Quick overview of the included variables:
+unity_ObjectToWorld - Transforms the mesh vertices from their local mesh space to Unity world space. This is the same world space as your scene. Fairly straightforward.
+unity_WorldToObject - Transforms world space into local mesh space.
+One thing that is important to understand here is this is not necessarily local gameObject space, this is local mesh space, and these can be different. Most commonly when your model's import settings have a scale factor. If you're using skeletal meshes it's the local position after being transformed by skeletal animation.
+
+Then there's the other UNITY_MATRIX_* values:
+UNITY_MATRIX_MVP - This is the most important one, this single matrix does all the transforms from the initial mesh space position into projection space (aka clip space). This matrix is the product of UNITY_MATRIX_M, UNITY_MATRIX_V, and UNITY_MATRIX_P together.
+UNITY_MATRIX_M - This is identical to unity_ObjectToWorld, also called the Model transform.
+UNITY_MATRIX_V - This is the transform from world space to local View space. This is similar to if you had an gameObject as a child of a camera gameObject, but without any scale applied. This means the positions are all in world space distances, but with the camera at 0,0,0 and rotated to match the camera's orientation.
+UNITY_MATRIX_P - This is the transform from view space to Projection space. Projection space, or clip space, can be thought of as the position on screen, with anything on the far left edge of the screen, regardless of how far away, has an x of "-1", and on the right "1". It's actually going to be negative and positive "w", but we'll skip that for now.
+
+There also exist combinations of these 3 main matrices, likes UNITY_MATRIX_MV, or UNITY_MATRIX_VP, which do exactly what you might expect. UNITY_MATRIX_MV transforms from model into view space, and UNITY_MATRIX_VP from world space into projection space.
+
+There are also UNITY_MATRIX_T_MV, UNITY_MATRIX_IT_MV, UNITY_MATRIX_I_V and many other matrices that don't have the UNITY_MATRIX_* prefix, some of which are duplicates (like unity_ObjectToWorld and UNITY_MATRIX_M). We'll ignore those for now.
+
+So that breaks down the different matrices that are available, but doesn't answer your question. For that you need to understand the basics of a transform matrix. A float4x4 transform matrix stores the scale, rotation, and translation with the first 3x3 being the scale and rotation and the last row float3 being the translation. The remaining float4 column we'll ignore as it doesn't really matter for what you're trying to do.
+
+The short version is if you want an object transformed by the rotation and scale but not moved you only want to apply that float3x3 section of the matrix to the vertex positions. There are two main ways to do this:
+mul((float3x3)unity_ObjectToWorld, v.vertex.xyz);
+or
+mul(unity_ObjectToWorld, float4(v.vertex.xyz, 0.0));
+
+These are pretty much identical, though the first method returns a float3 and the second returns a float4.
+
+If you want only rotation and not scale, that's harder and depends on exactly how you want to use the data. Most of the time if you don't care about scale you're dealing with directions, like surface normals. In that case you apply the rotation and scale matrix and normalize the result. Unity has a number of built in functions for this, almost none of which are listed in the documentation. Of you really need rotation with our scale and the vector unnormalized then you have to do a bunch more work.
