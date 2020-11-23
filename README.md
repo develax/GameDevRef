@@ -1,5 +1,8 @@
 # GameDevRef
 
+## Unity
+- [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
+
 ## Assets
 - [Unity Asset Management (Part 1)](https://starloopstudios.com/unity-asset-management/)
 
