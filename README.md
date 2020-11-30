@@ -3,6 +3,9 @@
 ## Libs
 - [Surge](http://surge.pixelplacement.com/documentation.html)
 
+## Bezier Curves
+- [How to work with Bezier Curve in Games with Unity](https://www.gamasutra.com/blogs/VivekTank/20180806/323709/How_to_work_with_Bezier_Curve_in_Games_with_Unity.php)
+
 ## Unity
 - [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
 
