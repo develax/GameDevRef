@@ -1,0 +1,17 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+	[DisallowMultipleComponent]
+	public class #SCRIPTNAME# : MonoBehaviour
+	{
+#pragma warning disable CS0649
+
+		//[SerializeField]
+		//private GameObject _test;
+
+#pragma warning restore CS0649
+	}
+} 
