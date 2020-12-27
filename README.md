@@ -12,7 +12,7 @@
 - [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
 
 ## OPTIMIZASION
-- [Unity Draw Call Batching: The Ultimate Guide [2020](https://thegamedev.guru/unity-performance/draw-call-optimization/#tab-con-16)
+- [Unity Draw Call Batching: The Ultimate Guide 2020](https://thegamedev.guru/unity-performance/draw-call-optimization/#tab-con-16)
 - [The magic of Material Property Blocks](https://thomasmountainborn.com/2016/05/25/materialpropertyblocks/)
 
 ## Assets
