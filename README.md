@@ -11,6 +11,9 @@
 ## Unity
 - [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
 
+## OPTIMIZASION
+- [The magic of Material Property Blocks](https://thomasmountainborn.com/2016/05/25/materialpropertyblocks/)
+
 ## Assets
 - [Unity Asset Management (Part 1)](https://starloopstudios.com/unity-asset-management/)
 
