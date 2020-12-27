@@ -49,8 +49,10 @@
 
 ## Algorithms 
 
--[Introduction to Behavior Trees](https://web.archive.org/web/20140723035304/http://www.altdev.co/2011/02/24/introduction-to-behavior-trees/)
--
+- [Introduction to Behavior Trees](https://web.archive.org/web/20140723035304/http://www.altdev.co/2011/02/24/introduction-to-behavior-trees/)
+
+## AUDIO / SOUNDS
+- [Sending audio directly to a speaker in Unity](https://thomasmountainborn.com/2016/06/10/sending-audio-directly-to-a-speaker-in-unity/)
 
 ## Unity Editor
 - [ObjectPreview (example)](/UnityEditor/SpriteSizePreview.cs)
