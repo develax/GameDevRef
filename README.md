@@ -24,7 +24,7 @@
 - [Unity Asset Management (Part 1)](https://starloopstudios.com/unity-asset-management/)
 
 ## Shaders
-- [Shaders Laboratory](http://www.shaderslab.com/)
+- [**Shaders Laboratory**](http://www.shaderslab.com/)
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [A gentle introduction to shaders in Unity3D](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
 - [GLSL Programming/Unity](https://en.wikibooks.org/wiki/GLSL_Programming/Unity)
