@@ -2,11 +2,11 @@
 
 ## Libs
 - [Surge](http://surge.pixelplacement.com/documentation.html)
-- - [YouTube](https://www.youtube.com/playlist?list=PLEH8EMH8cXqA3H4NoJB9ZXSbPY2U0VhtA)
 
 ## Bezier Curves
 - [How to work with Bezier Curve in Games with Unity](https://www.gamasutra.com/blogs/VivekTank/20180806/323709/How_to_work_with_Bezier_Curve_in_Games_with_Unity.php)
 - [Bezier spline curves](https://www.ibiblio.org/e-notes/Splines/Bezier.htm)
+- - [YouTube](https://www.youtube.com/playlist?list=PLEH8EMH8cXqA3H4NoJB9ZXSbPY2U0VhtA)
 
 ## Unity
 - [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
@@ -66,12 +66,16 @@
 ## Unity Editor
 - [ObjectPreview (example)](/UnityEditor/SpriteSizePreview.cs)
 
+## Persisten IDs
+[Generating Persistent Unique Id's in Unity3D](https://web.archive.org/web/20170611140742/http://joshuasmyth.maglevstudios.com/post/Generating-Persistent-Unique-Ids-in-Unity3D2)
+
 ## OPEN GL
 - [Learn OpenGL](https://learnopengl.com/)
 
 ## DirectX
 - [DirectX 12 Docs](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-getting-started)
 - [d3dcoder.net/resources](http://www.d3dcoder.net/resources.htm) (source code for the book)
+
 
 ## Matrixes
 ### Rotation without tanslation
