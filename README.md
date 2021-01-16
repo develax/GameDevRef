@@ -1,26 +1,25 @@
 # GameDevRef
 
-## Libs
-- [Surge](http://surge.pixelplacement.com/documentation.html)
+## Ray Trasing
+- [Ray Tracing in One Weekend](https://raytracing.github.io/)
 
-## Bezier Curves
-- [How to work with Bezier Curve in Games with Unity](https://www.gamasutra.com/blogs/VivekTank/20180806/323709/How_to_work_with_Bezier_Curve_in_Games_with_Unity.php)
-- [Bezier spline curves](https://www.ibiblio.org/e-notes/Splines/Bezier.htm)
-- - [YouTube](https://www.youtube.com/playlist?list=PLEH8EMH8cXqA3H4NoJB9ZXSbPY2U0VhtA)
 
 ## Unity
 - [Unlocking Unity Animator's interruption full power](https://www.gamasutra.com/blogs/ArielMarceloMadril/20191003/351550/Unlocking_Unity_Animators_interruption_full_power.php)
 
-## OPTIMIZASION
+### Libs
+- [Surge](http://surge.pixelplacement.com/documentation.html)
+
+### OPTIMIZASION
 - [Unity Draw Call Batching: The Ultimate Guide 2020](https://thegamedev.guru/unity-performance/draw-call-optimization/#tab-con-16)
 - [The magic of Material Property Blocks](https://thomasmountainborn.com/2016/05/25/materialpropertyblocks)
 
-## PHYSICS
+### PHYSICS
 - [How does rb2d.MovePosition() interact with Physics2d.Simulate()?](https://forum.unity.com/threads/how-does-rb2d-moveposition-interact-with-physics2d-simulate.862309/)
 - [Smooth Movement Test Application (2D, WebGL)](https://forum.unity.com/threads/smooth-movement-test-application-2d-webgl.734021/)
 - [physic simulation prediction for AI in Unity](https://answers.unity.com/questions/1611078/what-is-the-best-way-to-implement-physic-simulatio.html)
 
-## Assets
+### Assets
 - [Unity Asset Management (Part 1)](https://starloopstudios.com/unity-asset-management/)
 
 ## Shaders
@@ -77,6 +76,11 @@
 - [DirectX 12 Docs](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-getting-started)
 - [d3dcoder.net/resources](http://www.d3dcoder.net/resources.htm) (source code for the book)
 
+
+## Bezier Curves
+- [How to work with Bezier Curve in Games with Unity](https://www.gamasutra.com/blogs/VivekTank/20180806/323709/How_to_work_with_Bezier_Curve_in_Games_with_Unity.php)
+- [Bezier spline curves](https://www.ibiblio.org/e-notes/Splines/Bezier.htm)
+- - [YouTube](https://www.youtube.com/playlist?list=PLEH8EMH8cXqA3H4NoJB9ZXSbPY2U0VhtA)
 
 ## Matrixes
 ### Rotation without tanslation
